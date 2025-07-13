@@ -39,3 +39,5 @@ cmd({
         await reply("❌ An error occurred while fetching the pairing code. Please try again later.");
     }
 });
+
+
