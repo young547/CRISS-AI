@@ -61,7 +61,7 @@ ${translatedTafsirEnglish.text}`;
     await conn.sendMessage(
       from,
       {
-        image: { url: `https://files.catbox.moe/4ggu0a.jpg` },
+        image: { url: `https://res.cloudinary.com/dgy2dutjs/image/upload/v1751624587/url.crissvevo.co.tz/IMG_2353_fze42l.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
