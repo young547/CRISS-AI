@@ -8,7 +8,6 @@
 </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  </p>
 
 <p align="center">
   <a href="https://github.com/criss-vevo/CRISS-AI/fork">
